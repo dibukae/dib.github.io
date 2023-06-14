@@ -2,12 +2,16 @@ h1, h2,p{
     text-align: center;
 }
 
+h1, h2, h3, p, ul, li, ol{
+    color: lightgrey;
+}
+
 body {
     font-family: sans-serif;   
 }
 
 html{
-    background: linear-gradient(rgb(134, 155, 194) 65%, rgb(107, 111, 168));
+    background: linear-gradient(rgb(32, 28, 41) 65%, rgb(50, 53, 95));
 }
 
 .stripe{
