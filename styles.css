@@ -7,7 +7,7 @@ body {
 }
 
 html{
-    background: linear-gradient(180deg, rgb(134, 155, 194), rgb(58, 62, 112));
+    background: linear-gradient(180deg, rgb(134, 155, 194) 65%, rgb(58, 62, 112));
 }
 
 .stripe{
@@ -16,4 +16,8 @@ html{
 
 .red{
     background-color: rgb(200, 0, 0);
+}
+
+.orange{
+    background-color: rgb(255, 90, 0);
 }
