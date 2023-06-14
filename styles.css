@@ -4,5 +4,9 @@ h1, h2,p{
 
 body {
     font-family: sans-serif;
+    
+}
+
+html{
     background-color: darkcyan;
 }
