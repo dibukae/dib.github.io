@@ -3,12 +3,11 @@ h1, h2,p{
 }
 
 body {
-    font-family: sans-serif;
-    
+    font-family: sans-serif;   
 }
 
 html{
-    background: linear-gradient(180deg,rgb(134, 155, 194), rgb(58, 77, 112));
+    background: linear-gradient(180deg, rgb(134, 155, 194), rgb(58, 62, 112));
 }
 
 .stripe{
