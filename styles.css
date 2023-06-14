@@ -13,6 +13,8 @@ html{
 
 .stripe{
     height: 15px;
-    background-color: rgb(200, 0, 0);
 }
 
+.red{
+    background-color: rgb(200, 0, 0);
+}
