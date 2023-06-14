@@ -11,8 +11,12 @@ html{
     background-color: rgb(134, 155, 194);
 }
 
+.contain{
+    padding: 10px;
+}
+
 .stripe{
-    height: 20px;
+    height: 15px;
 }
 
 .one{
