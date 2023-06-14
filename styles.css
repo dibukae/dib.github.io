@@ -11,7 +11,13 @@ html{
 }
 
 .stripe{
-    height: 25px;
+    height: 15px;
+}
+
+.red{
     background-color: rgb(200, 0, 0);
 }
 
+.orange{
+    background-color: rgb(255, 90, 0);
+}
