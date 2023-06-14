@@ -8,5 +8,19 @@ body {
 }
 
 html{
-    background-color: darkcyan;
+    background-color: rgb(134, 155, 194);
+}
+
+.stripe{
+    height: 20px;
+}
+
+.one{
+    background-color: rgb(200,0,0,);
+}
+.two{
+    background-color: rgb(245, 98, 0);
+}
+.three{
+    background-color: rgb(255,200,0,);
 }
