@@ -11,7 +11,7 @@ body {
 }
 
 html{
-    background: linear-gradient(135deg, rgb(70, 0, 0), rgb(99, 36, 0), rgb(80,70,0), rgb(0,70,0), rgb(0, 26, 110), rgb(50,0,140));
+    background: linear-gradient(30deg, rgb(70, 0, 0), rgb(99, 36, 0), rgb(80,70,0), rgb(0,70,0), rgb(0, 26, 110), rgb(50,0,140));
 }
 
 .stripe{
@@ -59,7 +59,7 @@ a:active{
 }
 
 .rectangle {
-	width: 80%;
+	
 	background: linear-gradient(rgb(32, 28, 41) 65%, rgb(50, 53, 95));
 	margin-left: auto;
 	margin-right: auto;
