@@ -10,6 +10,11 @@ body{
 h1 {
 	color: lightgrey;
 	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
 }
 
 iframe{
@@ -32,8 +37,4 @@ a:hover{
 
 a:active{
 	color: rgb(6, 26, 142);
-}
-
-h1, a {
-	text-align: center;
 }
