@@ -57,3 +57,8 @@ a:hover{
 a:active{
 	color: rgb(6, 26, 142);
 }
+
+.rectangle {
+	width: 80%;
+	background-color: rgb(12, 11, 15);
+}
