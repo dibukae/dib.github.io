@@ -3,18 +3,18 @@ html{
 }
 
 body{
-	font-family: Impact;
 	font-size: large;
 }
 
 h1 {
 	color: lightgrey;
-	font-family: sans-serif;
 	text-align: center;
+	font-family: Impact;
 }
 
 h2 {
 	text-align: center;
+	font-family: sans-serif;
 }
 
 iframe{
