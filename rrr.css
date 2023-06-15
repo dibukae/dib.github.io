@@ -2,6 +2,11 @@ html{
 	background-color: rgb(38, 31, 63);
 }
 
+body{
+	font-family: Impact;
+	font-size: large;
+}
+
 h1 {
 	color: lightgrey;
 }
