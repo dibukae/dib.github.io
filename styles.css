@@ -45,3 +45,15 @@ html{
 a{
     color: rgb(16, 198, 230);
 }
+
+a:visited{
+	color: rgb(165, 140, 255);
+}
+
+a:hover{
+	color: rgb(156, 223, 235);
+}
+
+a:active{
+	color: rgb(6, 26, 142);
+}
